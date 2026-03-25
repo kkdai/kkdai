@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/kkdai/kkdai/main/profile-summary-card-output/onedark/4-productive-time.svg)
-```
-
-    
